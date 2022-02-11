@@ -10,7 +10,7 @@
   "SYMBOL": "SKNFT",
   "MAX_SUPPLY": 12,
   "WEI_COST": 4000000000000000000,
-  "DISPLAY_COST": 4,
+  "DISPLAY_COST": 0.005,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/the-stripes-nft-test",
