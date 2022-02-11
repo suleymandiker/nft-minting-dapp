@@ -4,13 +4,13 @@
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "Matic",
-    "ID": 80001
+    "ID": 137
   },
   "NFT_NAME": "Sauce Kingdom",
   "SYMBOL": "SKNFT",
   "MAX_SUPPLY": 12,
-  "WEI_COST": 4000000000000000000,
-  "DISPLAY_COST": 0.005,
+  "WEI_COST": 4000000000000000,
+  "DISPLAY_COST": 0.004,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/the-stripes-nft-test",
